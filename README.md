@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theaceemperor
-- 👀 I’m interested in Web development & pen-test
-- 🌱 I’m currently learning Blockchain development & Cyber security
+- 👀 I’m interested in Web development & pen-testing
+- 🌱 I’m currently learning Cyber security & Version control
 - 💞️ I’m looking to collaborate on Amazing web development projects & Bug hunts
 - 📫 How to reach me ...
 
